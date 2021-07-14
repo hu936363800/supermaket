@@ -2,7 +2,6 @@
   <div class="goods">
      <div v-for="item in good" class="item" >
     <goods-list-item :goodsItem="item" ></goods-list-item></div>
-
   </div>
 </template>
 
